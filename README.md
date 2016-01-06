@@ -6,4 +6,4 @@ Learn Web Development with Rails*](http://www.railstutorial.org/)
 by [Michael Hartl](http://www.michaelhartl.com/).
 
 You can see my process through this link (thanks to Heroku):
-(https://enigmatic-escarpment-1134.herokuapp.com/)
+(https://afternoon-sea-3881.herokuapp.com/)
